@@ -3,4 +3,8 @@
 document.getElementById("meuBotao").addEventListener("click", function () {
     console.log("Botão clicado!");
   });
+
+
+
+  console.log("hello,world")
   
